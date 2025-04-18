@@ -72,7 +72,7 @@ export default function Getuser() {
                   </p>
                   <a href={userData.html_url} target="_blank" >Go to Profile</a>
                 </div>
-                <div className="d-flex gap-4 mt-2">
+                <div className="user-data d-flex gap-4 mt-2">
                   <p>
                     <h3>{userData.public_repos}</h3>
                     <strong>Public Repos:</strong>
