@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mananazam20/github-user-finder/static/css/main.1c22e833.css",
-    "main.js": "/mananazam20/github-user-finder/static/js/main.aa35eb2b.js",
-    "static/js/453.510eb748.chunk.js": "/mananazam20/github-user-finder/static/js/453.510eb748.chunk.js",
-    "index.html": "/mananazam20/github-user-finder/index.html",
-    "main.1c22e833.css.map": "/mananazam20/github-user-finder/static/css/main.1c22e833.css.map",
-    "main.aa35eb2b.js.map": "/mananazam20/github-user-finder/static/js/main.aa35eb2b.js.map",
-    "453.510eb748.chunk.js.map": "/mananazam20/github-user-finder/static/js/453.510eb748.chunk.js.map"
+    "main.css": "/github-user-finder/static/css/main.1c22e833.css",
+    "main.js": "/github-user-finder/static/js/main.19f8c916.js",
+    "static/js/453.510eb748.chunk.js": "/github-user-finder/static/js/453.510eb748.chunk.js",
+    "index.html": "/github-user-finder/index.html",
+    "main.1c22e833.css.map": "/github-user-finder/static/css/main.1c22e833.css.map",
+    "main.19f8c916.js.map": "/github-user-finder/static/js/main.19f8c916.js.map",
+    "453.510eb748.chunk.js.map": "/github-user-finder/static/js/453.510eb748.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c22e833.css",
-    "static/js/main.aa35eb2b.js"
+    "static/js/main.19f8c916.js"
   ]
 }
